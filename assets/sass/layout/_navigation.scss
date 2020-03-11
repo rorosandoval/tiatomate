@@ -1,0 +1,65 @@
+//NAV
+.nav {
+  background: $white;
+}
+//LOGO
+.nav__img {
+  width: 200px;
+  padding: 20px;
+}
+.nosotros__title {
+  height: 120px;
+  background-color: $jellybean;
+  text-align: center;
+  padding: 2rem;
+}
+//article
+.article {
+  background: $taupegray;
+  padding: 5rem;
+}
+//article__2
+.article__two {
+  background: $white;
+  padding: 5rem;
+}
+//article__img--banner
+.article__img--banner{
+  width: 900px;
+  display: block;
+  margin: auto;
+}
+//article__img--nosotros
+.article__img--nosotros {
+  width: 400px;
+  display: block;
+  margin: auto;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+//article__text
+.article__text{
+  width: 600px;
+  display: block;
+  margin: auto;
+}
+//article__text--white
+.article__text--white{
+  width: 600px;
+  display: block;
+  margin: auto;
+}
+//nosotros__txt
+.nosotros__txt {
+  width: 600px;
+  display: block;
+  margin: auto;
+}
+//negocio
+.negocio {
+  height: 120px;
+  background-color: $jellybean;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 3rem;
+}

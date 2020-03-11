@@ -1,0 +1,15 @@
+.negocio__button {
+    text-decoration: none;
+    padding: 0.75rem;
+    font-family: $raleway;
+    font-weight: $regular;
+    font-size: $medium;
+    color: $granitegray;
+    background-color: $snow;
+    border-radius: 6px;
+    border: 2px solid;
+  }
+  .negocio__button:hover{
+    color: $snow;
+    background-color: $granitegray;
+}

@@ -1,0 +1,58 @@
+// header light
+.header__h1--light {
+  font-family: $raleway;
+  font-weight: $light;
+  color: $white;
+}
+//header bold
+.header__h1--bold {
+  font-family: $raleway;
+  font-weight: $bold;
+  color: $white;
+}
+//h1
+h1 {
+  font-family: $raleway;
+  font-weight: $bold;
+  color: $white;
+}
+//negocio__h1
+.negocio__h1 {
+  font-family: $raleway;
+  font-weight: $bold;
+  color: $white;
+}
+//h2
+h2 {
+  font-family: $raleway;
+  font-weight: $bold;
+  color: $granitegray;
+  text-align: center;
+  margin-top: 3rem;
+}
+//h2__article
+.h2__article {
+  font-family: $raleway;
+  font-weight: $bold;
+  color: $white;
+  text-align: center;
+  margin-top: 3rem;
+}
+//article__text
+.article__text {
+  font-family: $raleway;
+  font-weight: $regular;
+  color: $granitegray;
+}
+//article__text--white
+.article__text--white {
+  font-family: $raleway;
+  font-weight: $regular;
+  color: $white;
+}
+//nosotros__txt
+.nosotros__txt {
+  font-family: $raleway;
+  font-weight: $regular;
+  color: $granitegray;
+}
