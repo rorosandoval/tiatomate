@@ -9875,6 +9875,11 @@ h3 {
     border-color: #dee2e6;
   }
 }
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .header__h1--light {
   font-family: "Raleway", sans-serif;
   font-weight: 200;
@@ -9992,7 +9997,7 @@ h2 {
 }
 
 .negocio {
-  height: 120px;
+  height: 170px;
   background-color: #e56353;
   text-align: center;
   padding: 2rem;
@@ -10019,7 +10024,7 @@ h2 {
 
 .negocio__button {
   text-decoration: none;
-  padding: 0.75rem;
+  padding: 0.5rem;
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   font-size: 18px;
